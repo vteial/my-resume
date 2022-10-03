@@ -62,7 +62,3 @@ start-date-end-date, City, State and remote
 
 ### Masters in BS, Example University 
 
-- 4.0 GPA 
-- Deans List
-- Member of xyz club, etc. 
-- I didn't really go to college so I don't know what you would put here. 
